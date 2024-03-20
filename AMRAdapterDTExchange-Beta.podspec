@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'AMRAdapterDTExchange'
+  s.name             = 'AMRAdapterDTExchange-Beta'
   s.version          = '8.2.7.0'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
 														Copyright 2016
