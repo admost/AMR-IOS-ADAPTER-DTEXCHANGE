@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AMRAdapterDTExchange-Beta'
-  s.version          = '8.2.7.0'
+  s.version          = '8.2.7.1'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
 														Copyright 2016
 														Admost Mediation Limited. 
@@ -25,6 +25,6 @@ Pod::Spec.new do |s|
     'VALID_ARCHS[sdk=iphoneos*]' => 'armv7 arm64',
     'VALID_ARCHS[sdk=iphonesimulator*]' => 'x86_64 arm64'
   }
-  s.dependency 'AMRSDK', '~> 1.5.3'
+  s.dependency 'AMRSDK-Beta', '~> 1.5.4'
   s.dependency 'Fyber_Marketplace_SDK', '8.2.7'
 end
