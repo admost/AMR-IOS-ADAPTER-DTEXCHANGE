@@ -3,6 +3,10 @@
 Changelog for AMRAdapterDTExchange 
 Fyber_Marketplace_SDK [changelog](https://developer.digitalturbine.com/hc/en-us/articles/360010922578-Marketplace-iOS-Changelog)
 
+## [8.3.2.1] - 2024-11-19
+### Updated
+- Ad quality support added.
+
 ## [8.3.2.0] - 2024-09-06
 ### Updated
 - Offical release for Fyber_Marketplace_SDK 8.3.2
