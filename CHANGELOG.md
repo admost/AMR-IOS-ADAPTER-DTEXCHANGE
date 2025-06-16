@@ -3,6 +3,11 @@
 Changelog for AMRAdapterDTExchange 
 Fyber_Marketplace_SDK [changelog](https://developer.digitalturbine.com/hc/en-us/articles/360010922578-Marketplace-iOS-Changelog)
 
+## [8.3.7.0] - 2025-06-16
+### Updated
+- Offical release for Fyber_Marketplace_SDK 8.3.7
+- Min iOS version updated to 13.0
+
 ## [8.3.6.0] - 2025-04-04
 ### Updated
 - Offical release for Fyber_Marketplace_SDK 8.3.6
