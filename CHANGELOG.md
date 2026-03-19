@@ -3,6 +3,11 @@
 Changelog for AMRAdapterDTExchange 
 Fyber_Marketplace_SDK [changelog](https://developer.digitalturbine.com/hc/en-us/articles/360010922578-Marketplace-iOS-Changelog)
 
+## [8.4.5] - 2026-03-19
+### Updated
+- Offical release for Fyber_Marketplace_SDK 8.4.5
+- SPM support added.
+
 ## [8.4.5.0] - 2025-03-02
 ### Updated
 - Offical release for Fyber_Marketplace_SDK 8.4.5

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AMRAdapterDTExchange'
-  s.version          = '8.4.5.0'
+  s.version          = '8.4.5'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
 														Copyright 2016
 														Admost Mediation Limited. 
@@ -21,10 +21,10 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = 'AMRAdapterDTExchange/Libs/AMRAdapterFyber.xcframework'
   s.pod_target_xcconfig = { 
     'OTHER_LDFLAGS' => '-ObjC -lc++',
-    "VALID_ARCHS": "arm64 armv7 x86_64",
-    'VALID_ARCHS[sdk=iphoneos*]' => 'armv7 arm64',
+    "VALID_ARCHS": "arm64 x86_64",
+    'VALID_ARCHS[sdk=iphoneos*]' => 'arm64',
     'VALID_ARCHS[sdk=iphonesimulator*]' => 'x86_64 arm64'
   }
-  s.dependency 'AMRSDK', '~> 1.5.55'
+  s.dependency 'AMRSDK', '~> 1.5.84'
   s.dependency 'Fyber_Marketplace_SDK', '8.4.5'
 end
